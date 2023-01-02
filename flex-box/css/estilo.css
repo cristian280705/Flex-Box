@@ -1,0 +1,24 @@
+@import url(../css/sub-estitlos/cabeçalho.css);
+@import url(../css/sub-estitlos/cursos.css);
+@import url(../css/sub-estitlos/video.css);
+@import url(../css/sub-estitlos/footer.css);
+
+:root {
+
+    --verde-font: #25D285;
+    --azul-font: #5EC6F3;
+    --azul-background: #18a9e7;
+    --vermelho-font: #EC6E5A;
+    --vermelho-background: #EC6E5A;
+    --cinza-font: #9799A6;
+    --branco-font: #ffffff;
+    --branco-background: #ffffff;
+}
+
+body {
+
+    font-size: 1em;
+    font-weight: 400;
+
+    background-color: var(--branco-background);
+}
